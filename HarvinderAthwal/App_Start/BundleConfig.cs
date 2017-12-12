@@ -15,7 +15,6 @@ namespace HarvinderAthwal.App_Start
                            "~/assets/js/animation.min.js",
                            "~/assets/js/bootstrap.min.js",
                            "~/assets/js/detectmobilebrowser.min.js",
-
                            "~/assets/js/main.min.js",
                            "~/assets/js/plugins.min.js",
                            "~/assets/js/switch-style.js"
