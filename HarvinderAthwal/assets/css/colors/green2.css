@@ -1,0 +1,91 @@
+﻿
+.colored-text {
+    color: #149b60;
+}
+a {
+    color: #149b60;
+}
+a:hover, a:focus {
+    color: #149b60;
+}
+.btn.btn-custom {
+    background-color: #149b60;
+    box-shadow: 0 3px 0 #0e6e44;
+}
+.btn.btn-custom:hover {
+    background-color: #118452;
+}
+span.divider {
+    background-color: #149b60;
+}
+.select2-dropdown-custom .select2-results > .select2-results__options > .select2-results__option[aria-selected="true"] {
+    background-color: #149b60;
+}
+#jpreBar {
+    background-color: #149b60;
+}
+header.hero.owl-bg-carousel-yes .owl-theme .owl-controls .owl-page.active span {
+    background: #149b60 none repeat scroll 0 0;
+}
+.navbar.navbar-fixed-top .navbar-nav > li.active > a {
+    color: #149b60;
+}
+.navbar.navbar-fixed-top .navbar-nav > li.active > a:hover {
+    color: #149b60;
+}
+.navbar.navbar-fixed-top .navbar-nav > li.active > a:focus {
+    color: #149b60;
+}
+.navbar.navbar-fixed-top .navbar-nav > li.dropdown.active > a, .navbar.navbar-fixed-top .navbar-nav > li.dropdown.active.open > a {
+    color: #149b60;
+}
+.navbar.navbar-fixed-top .navbar-nav > li.dropdown.active > a:hover, .navbar.navbar-fixed-top .navbar-nav > li.dropdown.active.open > a:hover {
+    color: #149b60;
+}
+.navbar.navbar-fixed-top .navbar-nav .dropdown-menu > li.active a {
+    color: #149b60;
+}
+.navbar.navbar-fixed-top .navbar-nav .dropdown-menu > li.active a:hover, .navbar.navbar-fixed-top .navbar-nav .dropdown-menu > li.active a:focus {
+    color: #149b60;
+}
+.navbar.navbar-fixed-top .navbar-toggle {
+    background-color: #149b60;
+}
+.portfolio .item > .project-wrapper > .project-link > a.external-link {
+    background-color: #149b60;
+}
+.column-chart > .chart > .item > .bar > .item-progress {
+    background-color: #149b60;
+}
+.panel-group.resume .resume-item .resume-year {
+    background-color: #149b60;
+}
+#references .flexslider.references > .slides > .item .profile::before {
+    background-color: #149b60;
+}
+.circle-chart .item > .percent {
+    background-color: #149b60;
+}
+.bar-chart > .item > .bar > .percent {
+    background-color: #149b60;
+}
+.accolades > .item > i {
+    background-color: #149b60;
+}
+.milestones .item > .circle {
+    background-color: #149b60;
+}
+.work-process .item .inner-content > i {
+    background-color: #149b60;
+}
+#blog .blog-post > .post-meta > span.date {
+    background-color: #149b60;
+}
+#map > .address {
+    background-color: #149b60;
+    border-bottom: 2px solid #0e6e44;
+}
+footer.footer .page-scroll > a {
+    background-color: #149b60;
+    box-shadow: 0 3px 0 #0e6e44;
+}
